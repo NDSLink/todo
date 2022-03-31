@@ -28,5 +28,7 @@ Basic todo list for stuff
 - [ ] Any B/W exclusive features?
 #### Black/White/Black 2/White 2
 - [ ] Any B/W/B2/W2 exclusive features?
+#### Web
+- [ ] I forgor what features I added 💀
 #### Unused Pokemon Platnium Functionality (complete)
 - [x] April Fools!
