@@ -8,7 +8,7 @@ Basic todo list for stuff
 - [x] sleepy bois (goodnight snorlax) (Putting a Pokemon to sleep)
 - [x] Waking up a Pokemon
 - [x] Reciving items
-- [ ] Reciving Pokemon (Entralink crashes randomly, happens on all saves I used?)
+- [x] Reciving Pokemon
 - [ ] Other GS & PDW features (are there more features in X/Y/OR/AS/S/M/US/UM?)
 #### Ultra Sun/Ultra Moon
 - [ ] Any US/UM exclusive features?
@@ -26,8 +26,8 @@ Basic todo list for stuff
 - [ ] Any B2/W2 exclusive features?
 #### Black/White
 - [ ] Any B/W exclusive features?
-#### Black/White/Black 2/White 2
-- [ ] Any B/W/B2/W2 exclusive features?
+#### Black/White/Black 2/White 2 (complete)
+- [x] Skins and musicals
 #### Web
 - [ ] I forgor what features I added 💀
 #### Unused Pokemon Platnium Functionality (complete)
